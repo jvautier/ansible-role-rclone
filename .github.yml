@@ -1,0 +1,12 @@
+---
+# See https://github.com/jvautier/project-cli
+fullname: jvautier/ansible-role-rclone
+description: Install rclone through ansible
+tags:
+  - ansible
+  - ansible-role
+  - rclone
+github:
+  has_issues: true
+  has_projects: false
+  has_wiki: false
